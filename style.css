@@ -9,3 +9,7 @@ h1 {
 h2 {
     font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+p {
+    color: blue;
+}
