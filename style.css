@@ -1,15 +1,23 @@
 body {
-    background-color: aqua;
+    background-image: url('images/me.jpg');
 }
 
-h1 {
-    font-size: 30px; color: red;
+.mouad {
+    font-family: verdana;
+    font-size: 30px;
+    color: red;
 }
 
 h2 {
-    font-size: 25px; font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red
 }
 
-p {
+#hello {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
     color: blue;
+
 }
