@@ -2,6 +2,8 @@ body {
     background-image: url('images/me.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
+    background-position: -233px;
   }
 
 .mouad {
@@ -22,4 +24,26 @@ h2 {
     font-size: small;
     color: blue;
 
+}
+
+table {
+    background-color: #fffffffd;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+  
+th, td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+}
+  
+th {
+    background-color: #fffffffd;
+    text-align: center;
+}
+
+table, th, td:last-child {
+    border-color: #000000;
 }
